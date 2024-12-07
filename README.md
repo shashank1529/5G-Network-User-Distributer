@@ -32,8 +32,10 @@ This project provides a robust framework for researchers and developers explorin
 
 
 ## 📑 Project-Report
+- [Report](https://www.overleaf.com/read/rsyyqgykhddq#4a55a6)
 
 ## 🎥 Demo-Video
+- [Video](https://drive.google.com/file/d/1S1kIS6NIfjRt7LqZvRNuFGJT0Cx0fy_n/view?usp=sharing)
 
 ## Tools needed
 
