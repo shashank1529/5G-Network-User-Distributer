@@ -39,7 +39,7 @@ This project provides a robust framework for researchers and developers explorin
 
 * Project Version : `Final`
 * Programming Language : `Matlab`
-* Matlab Version : `2022b`
+* Matlab Version : `2021b`
 ##  Project Structure
 `ModelSimulation.m`
 
